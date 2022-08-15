@@ -13,3 +13,30 @@
  *= require_tree .
  *= require_self
  */
+
+.qa {
+  text-align: justify;
+  font-family: sans-serif;
+  font-style: italic;
+}
+
+.padd {
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.marg {
+  margin-left: 30px;
+}
+
+.qa:hover {
+  background-color: lemonchiffon;
+}
+
+h1, h2, p {
+  font-family: lato;
+}
+
+a {
+  text-decoration: none;
+}
